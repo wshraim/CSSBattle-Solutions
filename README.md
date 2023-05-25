@@ -1,113 +1,55 @@
-# [cssbattle.dev](https://cssbattle.dev/) solutions.
+# Learn CSS with [cssbattle.dev](https://cssbattle.dev/)
 
-Solutions to all 24 battles as of May/ 2023.
+Solutions to all 24 battles / 150 targets as of May, 2023.
 
-> 150 individual solutions in total. No black magic CSS.
+> No black magic CSS.
 
 ## List
 
-- [Target #1 - Simply Square](./%231-Pilot-Battle%20/)
+- [Battle #1 - Pilot](./%231%20-%20Pilot%20Battle%20/)
 
-- [Target #2 - Carrom](./%231-Pilot-Battle%20/%232.%20Carrom.md)
+- [Battle #2 - Visibility](./%232%20-%20%20Visibility/)
 
-- [Target #3 - Push Button](/%2310%20-%20Block/)
+- [Battle #3 - Cursor](./%233%20-%20Cursor/)
 
-- [Target #4 - Ups n Downs](./Ups-n-Downs.md)
+- [Battle #4 - Display](./%234%20-%20Display/)
 
-- [Target #5 - Acid Rain](./Acid-Rain.md)
+- [Battle #5 - Inline](./%235%20-%20Inline/)
 
-- [Target #6 - Missing Slice](./Missing-Slice.md)
+- [Battle #6 - Conic](./%236%20-%20Conic/)
 
-- [Target #7 - Leafy Trail](./Leafy-Trail.md)
+- [Battle #7 - Backface](./%237%20-%20Backface/)
 
-- [Target #8 - Forking Crazy](./Forking-Crazy.md)
+- [Battle #8 - Transition](/%238%20-%20Transition/)
 
-- [Target #9 - Tesseract](./Tesseract.md)
+- [Battle #9 - Margin](./%239%20-%20Margin/)
 
-- [Target #10 - Cloaked Spirits](./Cloaked-Spirits.md)
+- [Battle #10 - Block](./%2310%20-%20Block/)
 
-- [Target #11 - Eye of Sauron](./Eye-of-Sauron.md)
+- [Battle #11 - Overflow](./%2311%20-%20Overflow/)
 
-- [Target #12 - Wiggly Moustache](./Wiggly-Moustache.md)
+- [Battle #12 - Blend](./%2312%20-%20Blend/)
 
-- [Target #13 - Totally Triangle](./Totally-Triangle.md)
+- [Battle #13 - Clip](./%2313%20-%20Clip/)
 
-- [Target #14 - Web Maker Logo](./Web-Maker-Logo.md)
+- [Battle #14 - Zindex](./%2314%20-%20ZIndex/)
 
-- [Target #15 - Overlap](./Overlap.md)
+- [Battle #15 - Filter](./%2315%20-%20Filter/)
 
-- [Target #16 - Eye of the Tiger](./Eye-of-the-Tiger.md)
+- [Battle #16 - Aspect](./%2316%20-%20Aspect/)
 
-- [Target #17 - Fidget Spinner](./Fidget-Spinner.md)
+- [Battle #17 - Christmas](./%2317%20-%20Christmas/)
 
-- [Target #18 - Matrix](./Matrix.md)
+- [Battle #18 - Float](./%2318%20-%20Float/)
 
-- [Target #19 - Cube](./Cube.md)
+- [Battle #19 - Spacing](./%2319%20-%20Spacing/)
 
-- [Target #20 - Ticket](./Ticket.md)
+- [Battle #20 - Hover](./%2320%20-%20Hover/)
 
-- [Target #21 - SitePoint Logo.md](./SitePoint-Logo.md)
+- [Battle #21 - Rotate](./%2321%20-%20Rotate/)
 
-- [Target #22 - Cloud](./Cloud.md)
+- [Battle #22 - Grid](./%2322%20-%20Grid/)
 
-- [Target #23 - Boxception](./Boxception.md)
+- [Battle #23 - Contain](./%2323%20-%20Contain/)
 
-- [Target #24 - Switches.md](./Switches.md)
-
-- [Target #25 - Blossom.md](./Blossom.md)
-
-- [Target #26 - Smiley](./Smiley.md)
-
-- [Target #27 - Lock Up](./LockUp.md)
-
-- [Target #28 - Cups & Balls](./Cups-Balls.md)
-
-- [Target #29 - Suffocate](./Suffocate.md)
-
-- [Target #30 - Horizon](./Horizon.md)
-
-- [Target #31 - Equals](./Equals.md)
-
-- [Target #32 - Band-aid](./Band-aid.md)
-
-- [Target #33 - Birdie](./Birdie.md)
-
-- [Target #34 - Christmas Tree](./Christmas-Tree.md)
-
-- [Target #35 - Ice Cream](./Ice-Cream.md)
-
-- [Target #36 - Interleaved](./Interleaved.md)
-
-- [Target #37 - Tunnel](./Tunnel.md)
-
-- [Target #38 - Not Simply Square](./Not-Simply-Square.md)
-
-- [Target #39 - Sunset](./Sunset.md)
-
-- [Target #40 - Letter B](./Letter-B.md)
-
-- [Target #41 - Fox Head](./Fox-Head.md)
-
-- [Target #42 - Baby](./Baby.md)
-
-- [Target #43 - Wrench](./Wrench.md)
-
-- [Target #44 - Stripes](./Stripes.md)
-
-- [Target #45 - Magical Tree](./Magical-Tree.md)
-
-- [Target #46 - Mountains](./Mountains.md)
-
-- [Target #47 - Corona Virus](./Corona-Virus.md)
-
-- [Target #48 - Wash You Hands.md](./Wash-Your-Hands.md)
-
-- [Target #49 - Stay at Home](./Stay-at-Home.md)
-
-- [Target #50 - Use Hand Sanitizer](./Use-Hand-Sanitizer.md)
-
-- [Target #51 - Wear a Mask](./Wear-a-Mask.md)
-
-- [Target #52 - Break the Chain](./Break-the-Chain.md)
-
-- [Target #53 - Pastel Logo](./Pastel-Logo.md)
+- [Battle #24 - Offset](./%2324.%20Offset/)
