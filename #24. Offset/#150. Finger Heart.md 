@@ -1,0 +1,28 @@
+<div></div>
+<p></p>
+<p></p>
+<style>
+  body {
+    background: #4F77FF;
+    margin: 0;
+  }
+  div {
+    width: 150px;
+    height: 150px;
+    background: #1038BF;
+  }
+  p {
+    width: 50px;
+    height: 54px;
+    background: #1038BF;
+    border-radius: 0 0 100px 100px;
+    position: absolute;
+    left: 100;
+    top: 130;
+  }
+  p:nth-child(3) {
+    rotate: -90deg;
+    left: 148;
+    top: 82;
+  }
+</style>
