@@ -4,7 +4,7 @@ Solutions to all 24 battles / 150 targets as of May, 2023.
 
 > No black magic CSS.
 
-## List
+## Table of Contents:
 
 - [Battle #1 - Pilot](./%231%20-%20Pilot%20Battle%20/)
 
