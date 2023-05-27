@@ -6,9 +6,9 @@ Solutions to all 24 battles / 150 targets as of May, 2023.
 
 ## Table of Contents:
 
-- [Battle #1 - Pilot](./%231%20-%20Pilot%20Battle%20/)
+- [Battle #1 - Pilot](./%231%20-%20Pilot/)
 
-- [Battle #2 - Visibility](./%232%20-%20%20Visibility/)
+- [Battle #2 - Visibility](./%232%20-%20Visibility/)
 
 - [Battle #3 - Cursor](./%233%20-%20Cursor/)
 
